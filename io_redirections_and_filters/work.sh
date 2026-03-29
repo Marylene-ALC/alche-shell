@@ -1,3 +1,4 @@
+#!/bin/bash
 read -p "Enter the file name: " file.
 read -p "Enter the command: " cmd.
 
